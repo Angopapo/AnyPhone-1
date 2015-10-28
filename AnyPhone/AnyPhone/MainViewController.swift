@@ -22,7 +22,7 @@ class MainViewController: UIViewController {
   
   var user: PFUser?
   
-  required init(coder decoder: NSCoder) {
+  required init?(coder decoder: NSCoder) {
     user = PFUser.currentUser()
     
     super.init(coder: decoder)

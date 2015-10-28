@@ -1,8 +1,8 @@
 require("cloud/app.js");
 
-var twilioAccountSid = 'Your-Twilio-Account-Sid';
-var twilioAuthToken = 'Your-Twilio-Auth-Token';
-var twilioPhoneNumber = 'Your-Twilio-Phone-Number';
+var twilioAccountSid = 'ACd7db1db7fab68bd1cef56398e01d0396';
+var twilioAuthToken = 'fa2598c340f8b0f49dd3d941baa6d067';
+var twilioPhoneNumber = '(855)997-2773';
 var secretPasswordToken = 'Something-Random-Here';
 
 var language = "en";
